@@ -1,5 +1,6 @@
 export {default as gender} from "https://raw.githubusercontent.com/randkid/gender/master/mod.ts"
 export {default as bloodType} from "https://raw.githubusercontent.com/randkid/bloodType/master/mod.ts"
 export {default as name} from "https://raw.githubusercontent.com/randkid/name/master/mod.ts"
+export {default as surname} from "https://raw.githubusercontent.com/randkid/surname/master/mod.ts"
 export {default as birthdate} from "https://raw.githubusercontent.com/randkid/birthdate/master/mod.ts"
 export {default as size} from "https://raw.githubusercontent.com/randkid/size/master/mod.ts"
